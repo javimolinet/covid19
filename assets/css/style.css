@@ -1,0 +1,61 @@
+body{
+    /* background-color: rgb(211, 237, 238); */
+   background-color: rgb(223, 248, 250);
+    }
+#spinners {
+    color: blue;
+    text-align: center;
+    margin-top: 20%;
+}
+h2{
+    font-family: 'Dancing Script';
+}
+#spinner {
+    margin-right: 10px;
+    height: 50px;
+    width: 50px ;
+    
+}
+#spinnersHome{
+    color: blue;
+    text-align: center;
+    margin-top: 20%;
+
+}
+img{
+    height: 50px;
+     margin-right: 20px;
+}
+#canvas{
+    margin-top: 100px;
+}
+#canvasChile{
+    margin-top: 100px;
+}
+.navbar  a{
+    text-decoration: none;
+    color: white;
+}
+th{
+    padding: 10px;
+    text-align: center;
+}
+td{
+    padding: 10px;
+    text-align: center;
+    border: solid 0.5px #929292;
+}
+#tablita{
+    border: solid 0.5px #929292;
+    
+}
+#cierreSesion{
+    margin-right: 150px;
+}
+#inicioSesion{
+    margin-right: 150px;
+}
+
+ul li {
+    text-align: left;
+}
